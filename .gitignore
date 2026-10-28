@@ -1,0 +1,10 @@
+.DS_Store
+build/
+*.app
+*.appex
+*.dSYM
+*.o
+node_modules/
+.superpowers/
+*.log
+.admission.lock*
