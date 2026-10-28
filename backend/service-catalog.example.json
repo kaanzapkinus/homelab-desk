@@ -1,0 +1,14 @@
+{
+  "services": [
+    {
+      "id": "com.example.service",
+      "name": "Example Web Service",
+      "activation": "always-on",
+      "endpoints": [
+        {
+          "port": 8080
+        }
+      ]
+    }
+  ]
+}
